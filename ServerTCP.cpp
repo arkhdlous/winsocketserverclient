@@ -1,10 +1,9 @@
 #include <iostream>
 #include <winsock2.h>
 #include <time.h>
-
  
 using namespace std;
- 
+
 void get_current_num_time(int int_time[6]);
 int main()
 {
